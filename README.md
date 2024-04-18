@@ -10,6 +10,7 @@
 
 Arquivos:
 - canvas-url.txt
+- video-url.txt
 - product-backlog.pdf
 - sprint-backlog.pdf
 - wireframes/
