@@ -8,11 +8,16 @@
 - Para os protótipos de interface da primeira sprint, salve os arquivos Figma e deixe na pasta “wireframes/” na raiz do repositório.
 - Grave um vídeo de 2 a 4 minutos expondo sua entrega. Imagine que você está fazendo um showcase do seu projeto. Inclua o arquivo de mídia do vídeo na raiz do repositório. Alternativamente, forneça também a URL para o vídeo.
 
-Arquivos:
+## O projeto - Finance Manager
+Vou continuar evoluindo o projeto que fiz para a primeira disciplina. 
+
+### Objetivo do aplicativo Finance Manager
+O aplicativo Finance Manager tem como objetivo principal ajudar os usuários a gerenciar suas finanças pessoais de forma eficiente e organizada. Através dessa ferramenta, os usuários podem acompanhar suas receitas, despesas, criar orçamentos, definir metas financeiras e compartilhar despesas com amigos e familiares. O app visa proporcionar uma visão clara e detalhada da situação financeira de cada usuário, auxiliando-os na tomada de decisões inteligentes e no alcance de uma maior estabilidade financeira.
+
+Arquivos no repositório:
 - canvas-url.txt
 - video-url.txt
-- product-backlog.pdf
-- sprint-backlog.pdf
+- product-and-sprint-backlog-url.txt
 - wireframes/
 
 ## Composição da nota
