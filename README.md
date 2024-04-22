@@ -15,10 +15,10 @@ Vou continuar evoluindo o projeto que fiz para a primeira disciplina.
 O aplicativo Splitfy Finance Manager tem como objetivo principal ajudar os usuários a gerenciar suas finanças pessoais de forma eficiente e organizada. Através dessa ferramenta, os usuários podem acompanhar suas receitas, despesas, criar orçamentos, definir metas financeiras e compartilhar despesas com amigos e familiares. O app visa proporcionar uma visão clara e detalhada da situação financeira de cada usuário, auxiliando-os na tomada de decisões inteligentes e no alcance de uma maior estabilidade financeira.
 
 Arquivos no repositório:
-- canvas-url.txt
-- video-url.txt
-- product-and-sprint-backlog-url.txt
-- wireframes/
+- canvas-url.txt ([link](https://miro.com/app/board/uXjVKTIKKFs=/?share_link_id=919597181012))
+- video-url.txt ([link](https://youtu.be/RBIuNehUZAI))
+- product-and-sprint-backlog-url.txt ([link](https://docs.google.com/document/d/11PyyTNvCDdgMJj6eEF06WgHqqjMtappSJozVhM1bcQA/edit#heading=h.v1536qq4w42w))
+- wireframes ([link](https://www.figma.com/file/A7IMCV0OEVa7odULqW6Dx5/PUC-Rio-Gest%C3%A3o-%C3%A1gil-de-projetos?type=design&node-id=0%3A1&mode=design&t=tWPodrzJChaZ9Z4q-1))
 
 ## Composição da nota
 
